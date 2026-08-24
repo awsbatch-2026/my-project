@@ -1,0 +1,2 @@
+this is information text file 
+using for s3 bucket 
